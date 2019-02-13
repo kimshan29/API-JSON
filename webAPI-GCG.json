@@ -1,0 +1,123 @@
+{
+    "ListAssessmentAOI": [{
+            "id": 1,
+            "tahun": "2019",
+            "permasalahan": "Perusahaan belum membuat laporan berkala tentang perkembangan pemenuhan kewajiban penyampaian LHKPN kepada KPK atau menyampaikan LHKPP kepada PT PLN (Persero) selaku Pemegang Saham",
+            "usulanRekomendasi": "Perusahaan agar membuat laporan berkala tentang perkembangan pemenuhan kewajiban penyampaian LHKPN kepada KPK atau menyampaikan LHKPP kepada PT PLN (Persero) selaku Pemegang Saham",
+            "organPenanggungJawab": "Direksi",
+            "pic": [{
+                    "nama": "Shandy Tias"
+                },
+                {
+                    "nama": "Sastra Firmanyah"
+                }
+            ],
+            "pelaksanaanTindakLanjut": "",
+            "progressPencapaianTindakLanjut": {
+                "capaian": 10
+            },
+            "dataPic": [{
+                "nama": "Shandy Tias"
+            }, {
+                "nama": "Sastra Firmanyah"
+            }]
+        },
+        {
+            "id": 2,
+            "tahun": "2019",
+            "permasalahan": "Perusahaan belum membuat kebijakan dan melaksanakan pemberian teguran / sanksi bagi penyelenggara negara / pejabat perusahaan yang belum menyampaikan LHKPN/LHKPP sesuai ketentuan yang berlaku",
+            "usulanRekomendasi": "Perusahaan agar membuat kebijakan tentang pemberian teguran / sanksi bagi Pejabat yang ditetapkan wajib menyampaikan LHKPN / LHKPP sesuai ketentuan yang berlaku namun belum / tidak menyampaikan LHKPN / LHKPP serta melaksanakan penegasan sanksi atas kelalaian.",
+            "organPenanggungJawab": "PS/RUPS",
+            "pic": [{
+                    "nama": "Bayu Isnanto Putro"
+                },
+                {
+                    "nama": "Lulu Firmansyah"
+                }
+            ],
+            "pelaksanaanTindakLanjut": "",
+            "progressPencapaianTindakLanjut": {
+                "capaian": 20
+            },
+            "dataPic": [{
+                    "nama": "Shandy Tias"
+                },
+                {
+                    "nama": "Sastra Firmanyah"
+                }
+            ]
+
+        }
+    ],
+    "listProject": [{
+            "id": 1,
+            "namaProject": "Project 1",
+            "keterangan": "Project Testing",
+            "anggaran": 200000000,
+            "pic": "PT. Development Testing Indonesia",
+            "tglMulai": "01-02-2019",
+            "tglSelesai": "12-12-2019",
+            "progress": "30"
+        },
+        {
+            "id": 2,
+            "namaProject": "Project 2",
+            "keterangan": "Project Testing 2",
+            "anggaran": 300000000,
+            "pic": "PT. Development Testing Indonesia",
+            "tglMulai": "01-02-2019",
+            "tglSelesai": "12-12-2019",
+            "progress": "40"
+        }
+    ],
+    "listKegiatan": [{
+            "id": 1,
+            "idProject": 1,
+            "namaProject": "Project 1",
+            "kegiatan": "Testing Kegiatan 1",
+            "keterangan": "Kegiatan 1",
+            "anggaran": 200000000,
+            "pic": "PT. ABC Makmur",
+            "tglMulai": "01-02-2019",
+            "tglSelesai": "12-12-2019",
+            "progress": "20"
+        },
+        {
+            "id": 2,
+            "idProject": 1,
+            "namaProject": "Project 1",
+            "kegiatan": "Testing Kegiatan 2",
+            "keterangan": "Kegiatan 2",
+            "anggaran": 100000000,
+            "pic": "PT. Angin Ribut",
+            "tglMulai": "01-02-2019",
+            "tglSelesai": "12-12-2019",
+            "progress": "10"
+        }
+    ],
+    "listSubKegiatan": [{
+            "id": 1,
+            "idProject": 1,
+            "kegiatan": "Testing Kegiatan 1",
+            "subKegiatan": "Sub Kegiatan",
+            "keterangan": "Kegiatan 1",
+            "anggaran": 200000000,
+            "pic": "PT. Angin Ribut Sentosa",
+            "tglMulai": "01-02-2019",
+            "tglSelesai": "12-12-2019",
+            "progress": "20"
+        },
+        {
+            "id": 2,
+            "idProject": 1,
+            "kegiatan": "Testing Kegiatan 2",
+            "subKegiatan": "Sub Kegiatan 1",
+            "keterangan": "Kegiatan 2",
+            "anggaran": 100000000,
+            "pic": "PT. Jaya Tekhnik",
+            "tglMulai": "01-02-2019",
+            "tglSelesai": "12-12-2019",
+            "progress": "10"
+        }
+    ]
+}
